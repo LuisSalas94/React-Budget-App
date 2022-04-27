@@ -22,9 +22,9 @@ const Reducer = (state, action) => {
 const initialState = {
 	budget: 2000,
 	expenses: [
-		{ id: 12, name: "food", cost: 300 },
-		{ id: 13, name: "holiday", cost: 400 },
-		{ id: 14, name: "books", cost: 200 },
+		{ id: 12, name: "Food", cost: 300 },
+		{ id: 13, name: "Videogames", cost: 400 },
+		{ id: 14, name: "Books", cost: 200 },
 	],
 };
 
